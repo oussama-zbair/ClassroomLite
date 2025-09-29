@@ -1,4 +1,4 @@
-# Classroom
+# ClassroomLite
 
 ## 📖 About  
 In today’s era of online learning, a dedicated digital platform is essential for seamless communication between students and teachers. **Classroom** is a mini Google Classroom–style web application that allows students to submit assignments and teachers to review, grade, and return feedback efficiently.  
